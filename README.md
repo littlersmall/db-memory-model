@@ -1,20 +1,24 @@
 # db-memory-model
-微型内存数据库
 
 
 一 内存模型整体结构图
+
 ![](http://upload-images.jianshu.io/upload_images/1397675-455d9a449b3315d1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 二 sdk和strorage
+
 ![](http://upload-images.jianshu.io/upload_images/1397675-776c78e084e9b6ef.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 三 dao和storage
+
 ![](http://upload-images.jianshu.io/upload_images/1397675-663464e08e342037.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 四 DAO
 
 1 Database dao
+
 ![](http://upload-images.jianshu.io/upload_images/1397675-573f2f8a7a24aa3b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 注：其中的init和save函数因参数和返回值不同，因此无法合并到SqlDb中。
 
 2 Json Dao
