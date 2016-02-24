@@ -2,7 +2,7 @@
  * row_instance.h
  *
  *  Created on: 2014年4月15日
- *      Author: chenzhixiang
+ *      Author: xingyi01(xingyi01@baidu.com)
  */
 
 #ifndef ROW_INSTANCE_H_
