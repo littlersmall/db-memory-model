@@ -1,0 +1,133 @@
+[table]
+table_name : nav_link
+table_id : 0
+column_num : 30
+row_key : 0
+row_num : 0
+foreign_key_num : 2
+[.@foreign_key]
+table_id : 6
+column_id : 1
+[.@foreign_key]
+table_id : 6
+column_id : 2
+[.@column]
+column_id : 0
+column_name : link_id
+column_type : 9
+[.@column]
+column_id : 1
+column_name : s_nid
+column_type : 9
+[.@column]
+column_id : 2
+column_name : e_nid
+column_type : 9
+[.@column]
+column_id : 3
+column_name : kind
+column_type : 8
+[.@column]
+column_id : 4
+column_name : form
+column_type : 9
+[.@column]
+column_id : 5
+column_name : dir
+column_type : 8
+[.@column]
+column_id : 6
+column_name : app
+column_type : 8
+[.@column]
+column_id : 7
+column_name : toll
+column_type : 8
+[.@column]
+column_id : 8
+column_name : adopt
+column_type : 8
+[.@column]
+column_id : 9
+column_name : md
+column_type : 8
+[.@column]
+column_id : 10
+column_name : devs
+column_type : 8
+[.@column]
+column_id : 11
+column_name : spet
+column_type : 8
+[.@column]
+column_id : 12
+column_name : funct
+column_type : 8
+[.@column]
+column_id : 13
+column_name : urban
+column_type : 8
+[.@column]
+column_id : 14
+column_name : pave
+column_type : 8
+[.@column]
+column_id : 15
+column_name : lane_n
+column_type : 8
+[.@column]
+column_id : 16
+column_name : lane_l
+column_type : 8
+[.@column]
+column_id : 17
+column_name : lane_r
+column_type : 8
+[.@column]
+column_id : 18
+column_name : lane_c
+column_type : 8
+[.@column]
+column_id : 19
+column_name : viad
+column_type : 8
+[.@column]
+column_id : 20
+column_name : l_admin
+column_type : 9
+[.@column]
+column_id : 21
+column_name : r_admin
+column_type : 9
+[.@column]
+column_id : 22
+column_name : geom
+column_type : 9
+[.@column]
+column_id : 23
+column_name : len
+column_type : 8
+[.@column]
+column_id : 24
+column_name : f_speed
+column_type : 9
+[.@column]
+column_id : 25
+column_name : t_speed
+column_type : 9
+[.@column]
+column_id : 26
+column_name : sp_class
+column_type : 9
+[.@column]
+column_id : 27
+column_name : dici_type
+column_type : 8
+[.@column]
+column_id : 28
+column_name : mesh_id
+column_type : 9
+[.@column]
+column_id : 29
+column_name : memo
+column_type : 9

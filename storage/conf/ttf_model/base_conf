@@ -1,0 +1,9 @@
+#mysql config
+host : 127.0.0.1
+user : root
+password : root
+db_name : ttf_150
+port : 3306
+table_num : 1
+
+#mongo

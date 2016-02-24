@@ -1,0 +1,171 @@
+[table]
+table_name : R
+table_id : 0
+column_num : 41
+row_key : 0
+row_num : 0
+foreign_key_num : 0
+[.@column]
+column_id : 0
+column_name : ID
+column_type : 8
+[.@column]
+column_id : 1
+column_name : ctid
+column_type : 9
+[.@column]
+column_id : 2
+column_name : MapID
+column_type : 8
+[.@column]
+column_id : 3
+column_name : Kind_num
+column_type : 8
+[.@column]
+column_id : 4
+column_name : Kind
+column_type : 8
+[.@column]
+column_id : 5
+column_name : Width
+column_type : 8
+[.@column]
+column_id : 6
+column_name : Direction
+column_type : 8
+[.@column]
+column_id : 7
+column_name : Toll
+column_type : 8
+[.@column]
+column_id : 8
+column_name : Const_St
+column_type : 8
+[.@column]
+column_id : 9
+column_name : UndConCRID
+column_type : 8
+[.@column]
+column_id : 10
+column_name : SnodeID
+column_type : 8
+[.@column]
+column_id : 11
+column_name : EnodeID
+column_type : 8
+[.@column]
+column_id : 12
+column_name : FuncClass
+column_type : 8
+[.@column]
+column_id : 13
+column_name : Length
+column_type : 8
+[.@column]
+column_id : 14
+column_name : DetailCity
+column_type : 8
+[.@column]
+column_id : 15
+column_name : Through
+column_type : 8
+[.@column]
+column_id : 16
+column_name : UnThruCRID
+column_type : 8
+[.@column]
+column_id : 17
+column_name : Ownership
+column_type : 8
+[.@column]
+column_id : 18
+column_name : Road_Cond
+column_type : 8
+[.@column]
+column_id : 19
+column_name : Special
+column_type : 8
+[.@column]
+column_id : 20
+column_name : AdminCodeL
+column_type : 8
+[.@column]
+column_id : 21
+column_name : AdminCodeR
+column_type : 8
+[.@column]
+column_id : 22
+column_name : Uflag
+column_type : 8
+[.@column]
+column_id : 23
+column_name : OnewayCRID
+column_type : 8
+[.@column]
+column_id : 24
+column_name : AccessCRID
+column_type : 8
+[.@column]
+column_id : 25
+column_name : SpeedCLASS
+column_type : 8
+[.@column]
+column_id : 26
+column_name : LaneNumS2E
+column_type : 8
+[.@column]
+column_id : 27
+column_name : LaneNumE2S
+column_type : 8
+[.@column]
+column_id : 28
+column_name : LaneNum
+column_type : 8
+[.@column]
+column_id : 29
+column_name : Vehcl_Type
+column_type : 8
+[.@column]
+column_id : 30
+column_name : Elevated
+column_type : 8
+[.@column]
+column_id : 31
+column_name : Structure
+column_type : 8
+[.@column]
+column_id : 32
+column_name : UseFeeCRID
+column_type : 8
+[.@column]
+column_id : 33
+column_name : UseFeeType
+column_type : 8
+[.@column]
+column_id : 34
+column_name : SpdLmtS2E
+column_type : 8
+[.@column]
+column_id : 35
+column_name : SpdLmtE2S
+column_type : 8
+[.@column]
+column_id : 36
+column_name : SpdSrcS2E
+column_type : 8
+[.@column]
+column_id : 37
+column_name : SpdSrcE2S
+column_type : 8
+[.@column]
+column_id : 38
+column_name : DC_Type
+column_type : 8
+[.@column]
+column_id : 39
+column_name : NoPassCRID
+column_type : 8
+[.@column]
+column_id : 40
+column_name : geometry
+column_type : 8
